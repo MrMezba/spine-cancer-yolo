@@ -82,8 +82,8 @@ python detect.py --weights best.pt --source test_images/
 
 ## Methodology
 - Data Preprocessing: Resize and normalize CT images to match YOLO input requirements.
-- Annotation Handling: Validate YOLO-format labels.
-- Model Training: Train YOLOV5, YOLOv8, YOLOV9, YOLOV10, YOLOv11 and YOLOV12 models are train and tested.
+- Annotation Handling: YOLO-format labels.
+- Model Training: Train YOLOV5, YOLOv8, YOLOV9, YOLOV10, YOLOv11 and YOLOV12 models and tested.
 - Evaluation: Measure mAP, precision, recall, and F1-score.
 - Hierarchical Fuzzy Model: Refine predictions in ambiguous cases using fuzzy logic.
 - Comparative Analysis: Compare YOLO variants to select the best model.
