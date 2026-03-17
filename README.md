@@ -1,4 +1,4 @@
-# Deep learning object detection-based Hierarchical Fuzzy model to early detection of Spinal Metastatic Bone Cancer
+# Spinal metastatic bone cancer detection using a YOLO-Based deep learning model with hierarchical fuzzy decision fusion
 
 ## Description
 This repository introduces a complete deep learning model for detecting and classifying spine metastatic bone cancer from CT scan images. The method combines modern YOLO-based object detection models with a hierarchical fuzzy logic–based decision system to improve reliability, especially when predictions are uncertain or unclear.
